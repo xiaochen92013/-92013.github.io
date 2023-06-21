@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-06-19T14:26:49.286Z</updated>
+  <updated>2023-06-21T01:41:59.813Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>阳光不燥, 微风正好</title>
+    <link href="http://example.com/posts/undefined.html"/>
+    <id>http://example.com/posts/undefined.html</id>
+    <published>2023-06-21T01:36:00.000Z</published>
+    <updated>2023-06-21T01:41:59.813Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>一生的时间很短<br> 短到不过两颗心的距离<br> 一生的时间也很长<br> 不如我们试着走走看</p></blockquote> <div class="tip "><p>deault</p></div>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;一生的时间很短&lt;br&gt; 短到不过两颗心的距离&lt;br&gt; 一生的时间也很长&lt;br&gt; 不如我们试着走走看&lt;/p&gt;
+&lt;/blockquote&gt;
+ &lt;div class=&quot;tip &quot;&gt;&lt;p&gt;deault&lt;/p&gt;
+&lt;/div&gt;</summary>
+      
+    
+    
+    
+    
+    <category term="生活" scheme="http://example.com/tags/%E7%94%9F%E6%B4%BB/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
